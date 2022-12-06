@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sadabjr&style=for-the-badge&color=blueviolet)
 
-# Hey Everyone! I'm [Sadab a.k.a Morning Star!](https://github.com/sadabjr) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="25px">
+# Hey Everyone! I'm [Sadab Ali](https://github.com/sadabjr) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="25px">
 
 <br><br>
 <a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
