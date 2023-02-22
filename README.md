@@ -2,86 +2,41 @@
 
 # Hey Everyone! I'm [Sadab Ali](https://github.com/sadabjr) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="25px">
 
-<br><br>
-<a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
+<h1 align="center">Hi 👋, I'm Sadab Ali</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍🎓 I’m B.Tech CSE Student
-- 🔭 I’m currently working on HTML, CSS, BootStrap, Bulma Css, Sass, Js and Reactjs
-- 🌱 I’m currently learning Web Development
-- ⚡ Future MERN stack Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadabjr&label=Profile%20views&color=0e75b6&style=flat" alt="sadabjr" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadabjr" alt="sadabjr" /></a> </p>
 
-### Connect with me 🧑🏻‍:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<a href="https://www.facebook.com/sadab.ali.1042/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sadab-ali-94b0991b0/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/ishadabshaikh/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+- 🔭 I’m currently working on **HTML, CSS, BootStrap, CSS, Sass, Js, Reactjs, Angluar, tailwind**
 
-### Languages and Tools 🧩🚀:
+- 🌱 I’m currently learning **Angular**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ReactJs](https://img.shields.io/badge/ReactJs-7952B3?style=for-the-badge&logo=react&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-violet?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- 👯 Front End developer At Destek Infosolution **SDE(WEB)**
 
-![BootStrap](https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+- ⚡ Future MERN stack Developer **⚡**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![BulmaCss](https://img.shields.io/badge/Bulma-FF6C37?style=for-the-badge&logo=bulma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)
+- 👨‍💻 All of my projects are available at [https://my-react-portolio.vercel.app/](https://my-react-portolio.vercel.app/)
 
-<!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+- 💬 Ask me about **JavaScript, React JS, CSS, Bootstrap, tailwind**
 
-<!-- ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
+- 📫 How to reach me **sadabjr047@gmail.com**
 
-<!-- ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) -->
-<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## Stats 📈
-
-<p align="center">
-<a>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sadabjr&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a><a>
-  <img width="48%" src="https://github-readme-stats-killshotxd.vercel.app//api?username=sadabjr&repo=github-readme-stats&hide_border=true&hide=contribs,prs,issues&show_icons=true&theme=radical" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sadab ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadab ali" height="30" width="40" /></a>
+<a href="https://instagram.com/ishadabskhaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishadabskhaikh" height="30" width="40" /></a>
 </p>
-<br>
 
-## Top languages 🔝
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<img alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=sadabjr&layout=compact&hide_border=true&theme=radical" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadabjr&show_icons=true&locale=en&layout=compact" alt="sadabjr" /></p>
 
-![Sadab's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sadabjr&hide_border=true&theme=redical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadabjr&show_icons=true&locale=en" alt="sadabjr" /></p>
 
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<!--
-**sadabjr/sadabjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadabjr&" alt="sadabjr" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
