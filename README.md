@@ -2,7 +2,6 @@
 
 # Hey Everyone! I'm [Sadab Ali](https://github.com/sadabjr) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="25px">
 
-<h1 align="center">Hi 👋, I'm Sadab Ali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadabjr&label=Profile%20views&color=0e75b6&style=flat" alt="sadabjr" /> </p>
