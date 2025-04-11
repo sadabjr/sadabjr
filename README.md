@@ -9,9 +9,10 @@
 I'm a passionate front-end developer with expertise in modern JavaScript frameworks and libraries. I specialize in creating responsive, user-friendly web applications with clean, maintainable code. My approach combines technical excellence with a keen eye for design and user experience.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-3%2B%20Years%20Experience-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-2%2B%20Years%20Experience-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Frontend%20Specialist-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-UI/UX%20Enthusiast-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-green?style=for-the-badge" />
 </div>
 
 ## 🚀 Key Skills
