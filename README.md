@@ -6,7 +6,7 @@
 
 ## 💼 Professional Summary
 
-I'm a passionate Front End Developer at **Destek Infosolution** with expertise in modern JavaScript frameworks and libraries. I specialize in creating responsive, user-friendly web applications with clean, maintainable code. My approach combines technical excellence with a keen eye for design and user experience.
+I'm a passionate front-end developer with expertise in modern JavaScript frameworks and libraries. I specialize in creating responsive, user-friendly web applications with clean, maintainable code. My approach combines technical excellence with a keen eye for design and user experience.
 
 <div align="center">
   <img src="https://img.shields.io/badge/-3%2B%20Years%20Experience-blue?style=for-the-badge" />
